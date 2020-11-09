@@ -1,6 +1,9 @@
 # classyTouchName - Oh-my-zsh Theme
 Oh-my-zsh theme inspired by classyTouch by yarisgutierrez here: https://github.com/yarisgutierrez/classyTouch_oh-my-zsh
 
+## Demo
+![screenshot](https://github.com/dylanroman03/classyTouchName/blob/main/Cheese_20.11.9_11.17.32.png)
+
 ## Installation
 
 You just clone the repo:
